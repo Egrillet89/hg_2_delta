@@ -1,4 +1,4 @@
-# Hack Grupa 2
+# Hack Grupal 2
 ## Encargado del repo: ELeazar Grillet - Delta
 
 ____
